@@ -1,2 +1,2 @@
 # forecasting
-develop an arima model forl load forecasting
+develop an arima model for load forecasting
